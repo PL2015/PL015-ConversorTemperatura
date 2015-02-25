@@ -1,4 +1,9 @@
 {
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "mocha": "latest"
+  },
   "name": "PL015-ConversorTemperatura",
   "version": "0.0.1",
   "description": "ULL ESIT Grado de Informática. 3º. PL. Lab \"Temperature Converter\"",
